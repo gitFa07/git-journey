@@ -3,3 +3,6 @@ one
 git reset HEAD~: the command helps revert the previous commit and back to the staging area.
 
 git reset --hard: get all the deleted files back, only the one deleted recently.
+
+ flag: 
+ 	-r: recurrsively remove all contents of the folder.
