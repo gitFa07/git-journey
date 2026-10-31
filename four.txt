@@ -1,2 +1,6 @@
 four
+<<<<<<< HEAD
 4 67 banana mango
+=======
+4 67 mango
+>>>>>>> staging
